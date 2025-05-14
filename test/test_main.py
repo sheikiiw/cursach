@@ -1,6 +1,6 @@
 from typing import Any
 import pytest
-from main import Category, Product, Smartphone, LawnGrass
+from src.main import Category, Product, Smartphone, LawnGrass
 
 
 @pytest.fixture
